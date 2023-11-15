@@ -16,6 +16,10 @@
 (https://www.data.go.kr/data/15013109/standard.do)
 
 
-![image](https://github.com/dev-hw/SeSAC-live_map/assets/97337582/0a4a9a48-e2ce-44ad-81e8-000411dd1388)
-![image](https://github.com/dev-hw/SeSAC-live_map/assets/97337582/c38f0281-0b3b-4a12-86e1-d7b548a6a2a1)
+
+
+![image](https://github.com/dev-hw/SeSAC-live_map/assets/97337582/a00586bc-c2b0-4c85-b3b7-2fe2258aa8c5)
+
+![image](https://github.com/dev-hw/SeSAC-live_map/assets/97337582/4ec50c36-b7ee-4a07-8598-e131527455e0)
+
 
